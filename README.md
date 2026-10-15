@@ -2,7 +2,7 @@
 
 A customer-support chatbot that answers questions from TechStream's internal policy documents using **Retrieval-Augmented Generation (RAG)**. Built with the LangChain Expression Language (LCEL), OpenAI embeddings, a FAISS vector store and `gpt-5-nano`.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/<your-repo>/blob/main/ChatBot_RAG.ipynb)
+![Pipeline](techstream_rag_pipeline.png)
 
 ---
 
